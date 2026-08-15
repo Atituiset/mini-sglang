@@ -1,0 +1,16 @@
+[book]
+authors = ["Atituiset"]
+language = "zh-CN"
+src = "src"
+title = "mini-sglang 源码学习指南"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
+[output.html.print]
+enable = true

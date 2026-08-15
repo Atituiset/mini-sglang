@@ -20,6 +20,9 @@ build/
 dist/
 *.tar.gz
 
+# mdbook build output
+learn/book/
+
 # virtual environment
 .venv/
 venv/
