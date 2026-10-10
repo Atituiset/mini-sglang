@@ -9,6 +9,7 @@ __pycache__/
 
 # json files
 *.json
+!docs-vitepress/package.json
 !docs-vitepress/package-lock.json
 *.jsonl
 
