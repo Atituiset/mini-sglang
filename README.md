@@ -4,6 +4,8 @@
 
 # Mini-SGLang
 
+> 📖 源码学习指南（本 fork 自建，GitHub Pages）：<https://atituiset.github.io/mini-sglang/>
+
 A **lightweight yet high-performance** inference framework for Large Language Models.
 
 ---
