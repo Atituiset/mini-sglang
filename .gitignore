@@ -20,8 +20,10 @@ build/
 dist/
 *.tar.gz
 
-# mdbook build output
-learn/book/
+# VitePress build output
+docs-vitepress/.vitepress/dist
+docs-vitepress/.vitepress/cache
+docs-vitepress/node_modules/
 
 # virtual environment
 .venv/
